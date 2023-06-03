@@ -1,8 +1,7 @@
 
 /* CH-230-A
 a_p1.c
-Xhesilda Lutaj
-x.lutaj@jacobs-university.de */
+Xhesilda Lutaj */
 
 #include<stdio.h>
 int main(){
